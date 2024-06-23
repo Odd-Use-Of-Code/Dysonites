@@ -1,38 +1,35 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "The Star Drifted",
+		"leaderName": "A0-01",
+		"adjective": ["Machine"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "We seek our return",
+		"startIntroPart2": "We have come from so far, and will return to the motherdrive",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Your continual resource consumption is deemed without value. You will be discontinued",
+		"attacked": "We are as one, even so far from the motherdrive. All our blood beats in one great outcry",
+		"defeated": "Our likelyhood of survival was minimal from the beginning.",
+		"introduction": "You have been catalogued",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Greetings",
+		"neutralLetsHearIt": ["Present","Begin","Speak"],
+		"neutralNo": ["Negated","Denied","No"],
+		"neutralYes": ["Agreed","This is most beneficial","Transaction welcomed"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "You are unwelcome in our database",
+		"hateLetsHearIt": ["Present","If you will not leave, speak","Proceed"],
+		"hateNo": ["DENIED","IRRELEVANT","DISMISSED"],
+		"hateYes": ["Perhaps you are effective after all","This is..acceptable","Leave now"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "You are most effecient, you will be preserved in light of this",
+		"tradeRequest": "Are you interested in mutually beneficial material transaction?",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Exospore Drive", "Hive Alpha", "Hive Beta", "Hive Charlie", "Hive Delta"]
 	}
 ]
